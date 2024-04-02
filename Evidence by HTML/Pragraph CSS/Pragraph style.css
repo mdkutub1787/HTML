@@ -1,0 +1,9 @@
+span{
+    font-size: large;
+    font-weight: bold;
+    border-top: 5px black double;
+    border-left: 5px black double;
+    border-bottom: 3px black solid;
+   border-right: 2px black solid;
+   padding: 5px;
+}
